@@ -10,7 +10,7 @@ Everything here is in progress. Each folder starts with research, then a charter
 
 | Folder | Question it answers | Status |
 |:---|:---|:---|
-| [Post-Quantum Cryptography](post-quantum-cryptography/) | How do you upgrade cryptography across a very large enterprise for the post-quantum transition? | 🚧 In progress: research |
+| [Post-Quantum Cryptography](post-quantum-cryptography/) | How do you upgrade cryptography across a very large enterprise for the post-quantum transition? | 🚧 In progress: research checked; charter and 90-day plan in first draft |
 | [PMO Turnaround](pmo-turnaround/) | You walk into a PMO the company does not value. What do you do first, and over the first year? | 🚧 In progress: first draft (playbook, operating model, evidence) |
 
 ---
