@@ -14,6 +14,7 @@ There is no good evidence that program offices, in any form, improve delivery. P
 
 | File | What it is |
 |:---|:---|
+| [First Principles](first-principles.md) | Why a PMO exists, the three constraints, reading red, amber and green, NPV for everything in flight, and re-baselining with a learning margin |
 | [The 90-Day Playbook](playbook.md) | Three deliverables in 90 days, then months 4 to 12, with kill criteria for the turnaround itself |
 | [Operating Model](operating-model.md) | The lever, the money ledger, governance tiers, dashboards and metrics, capacity, dependencies, decisions, mechanisms and people |
 | [What the Evidence Says](evidence.md) | What Amazon, eBay and others actually document, what is folklore, and the research gaps, with sources |
