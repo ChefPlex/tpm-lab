@@ -48,6 +48,8 @@ The closest established method is Critical Chain buffer management. Its "fever c
 
 During a turnaround, put a net present value on every current portfolio, program and project. The point is to prove whether each one is worth continuing.
 
+PMI's portfolio standard frames this step as a review of the "inventory of work": work that is not aligned with strategy, or is unlikely to deliver its intended value, is closed. Its tool is a weighted scoring model, with return on investment as a measure, and it never names NPV. So use NPV as one input to a scoring model, beside strategic fit and risk, not as the only test.
+
 Two limits to state up front:
 
 - **Early numbers are unreliable.** In a study of new-product portfolios, Cooper, Edgett and Kleinschmidt found that "financial data are simply too unreliable during the course of a project, especially in the earlier phases when prioritization decisions are most needed" ([source](https://macsphere.mcmaster.ca/bitstream/11375/5432/1/fulltext.pdf)). Show ranges, not a single figure, and do not let a spreadsheet look more certain than its inputs.
@@ -67,6 +69,7 @@ If nothing is meeting its dates, re-baseline everything. This sits in tension wi
 ## Sources
 
 - PMI, *Lexicon of Project Management Terms*, version 5.0 (members' login), entries for project management office, risk transference, risk escalation and management reserve. Read 2026-10-13.
+- PMI, *The Standard for Portfolio Management*, fourth edition (2017), sections on validating the portfolio and on evaluation.
 - Flyvbjerg and Budzier, "Why Your IT Project May Be Riskier Than You Think," [abstract](https://arxiv.org/abs/1304.0265).
 - Cooper, Edgett and Kleinschmidt, portfolio management in new product development, [working paper](https://macsphere.mcmaster.ca/bitstream/11375/5432/1/fulltext.pdf).
 - GAO, *Schedule Assessment Guide*, [GAO-16-89G](https://www.gao.gov/assets/gao-16-89g.pdf).
