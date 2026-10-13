@@ -20,6 +20,7 @@ I found no strong published evidence, either way, on whether program offices imp
 | [Net Present Value, Step by Step](npv-method.md) | The method a project or program manager follows to value work in flight: sunk costs out, three cases, the cost of stopping, a worked example and a decision rule |
 | [Stakeholders](stakeholders.md) | Why stakeholders are the reason for this work, what business value means, who they are, what each needs, and how they measure the value they get from the PMO |
 | [Project, Program and Portfolio](three-levels.md) | How the three differ, what the PMO owes each group, and the two-way agreement between the head of the PMO and its managers, with how to measure it |
+| [Heard, and Followed Through](heard-and-followed-through.md) | Making work better for the PMO's people and its stakeholders: the listening loop, support, communicating more than feels necessary, and showing people what came of what they said |
 | [Measuring a PMO](metrics.md) | The KPIs in seven groups, how to measure each, which carry targets and which stay as trends, and the sponsor's one-page scorecard |
 | [The 90-Day Playbook](playbook.md) | Three deliverables in 90 days, then months 4 to 12, with criteria for changing course on the improvement work itself |
 | [Operating Model](operating-model.md) | The lever, the money ledger, governance tiers, dashboards and metrics, capacity, dependencies, decisions, mechanisms and people |

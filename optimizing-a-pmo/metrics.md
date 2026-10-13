@@ -68,6 +68,8 @@ See [Stakeholders](stakeholders.md).
 | Their own measure | Each group's own success measure, from the stakeholder register | Trend |
 | Requests on their own initiative | How often teams ask for PMO help without it being required | Trend |
 | Sponsor engagement | Sponsor attendance at the portfolio review, and the standing slot held | Target |
+| Follow-through | Share of items raised by stakeholders or PMO staff that reached a result the person was told about ([Heard, and Followed Through](heard-and-followed-through.md)) | Target |
+| Feeling heard | "When you raise something with the PMO, do you see it lead somewhere?", in the quarterly check | Target: up |
 
 ## 6. How the PMO runs
 
