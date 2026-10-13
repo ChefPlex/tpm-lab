@@ -47,6 +47,20 @@ During change, people fill silence with their own story, and it is usually worse
 - **No surprises.** Tell people before they could hear it from someone else.
 - **Run it as a plan,** using the [Communications Plan Template](https://github.com/ChefPlex/tpm-templates/blob/main/communications-plan-template.md) for the cadence and the [Stakeholder Engagement Playbook](https://github.com/ChefPlex/tpm-templates/blob/main/stakeholder-engagement-playbook.md) for whose alignment you need.
 
+## An example
+
+This is from my own work, with the details removed. I joined a small engineering team, about five engineers and a manager, that several other teams depended on. Those teams were frustrated. Their requests went in and dates came back missed. The backlog was about two years deep, and none of it had ever been sized.
+
+**Listening came first.** I held three separate meetings in the first week: the engineers, then their management, then the managers of the teams that depended on them. In each one I explained what a technical program manager does and asked the same questions. What are you doing? What are you asking for? What do you expect? What are you hearing, and what frustrates you? From each person I was listening for three versions of the job: what they thought they were trying to do, what they were actually doing, and what they believed they were supposed to be doing. The gaps between those three told me where things were breaking down: people, time, money, or a request that had been heard differently from how it was meant.
+
+**Then a number everyone could see.** I sized the work the team had already finished, on a simple 5, 8 and 13 point scale. That gave a realistic ceiling of about 40 points per engineer per sprint. The requests coming in added up to something closer to 500 points a sprint, for the whole team.
+
+**Then a smaller promise, kept.** I walked the backlog with each dependent team and asked what mattered most right now. The offer was two large, two medium and two small items per engineer per sprint. It was a ceiling, not a quota: when someone finished early, they took more, and that was a pleasant surprise for someone rather than a missed date. My side of the deal was to clear any blocker within a day of hearing about it. When urgent work arrived, it became a trade everyone could see: something went in, and something else came out.
+
+**Then follow-through, sprint after sprint.** The first reaction was not happy. Nobody likes hearing that less will be promised, and it took time for both the team and its leadership to accept the cap. But the work started landing when it was promised. After about 90 days the tone had changed, and within about six months the same teams that had been frustrated were praising the team.
+
+Nothing about the engineers changed. The setup did: the team was heard, the promise matched what it could deliver, blockers were cleared quickly, and every change was a visible trade. That is the loop above, run at the scale of one team.
+
 ## How we know it is working
 
 Track these with the rest of [the measures](metrics.md), every quarter, as trends.
