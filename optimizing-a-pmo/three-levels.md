@@ -45,6 +45,45 @@ This part is practice, not standard. It is how I would run the facilitation whil
 - Name the person who will own each benefit after handover.
 - Give them a say in when work is ready to transition.
 
+## The agreement between the PMO and its managers
+
+What the PMO owes is only half of it. The project, program and portfolio managers who work with the PMO, or in it, make commitments too, and the head of the PMO makes commitments back. Write both sides down. An agreement in both directions is easier to keep than a list of expectations in one.
+
+### What the head of the PMO offers every manager
+
+- **A clear mandate,** in the [PMO charter](pmo-charter.md), so each manager knows what the office will and will not do.
+- **Backing for hard calls.** When a manager brings a stop, a slip or a trade-off early, the PMO carries it upward with them.
+- **Blockers cleared within an agreed time,** two working days for anything the manager cannot clear alone.
+- **Light, standard reporting,** with one format and no duplicate requests.
+- **Growth:** coaching, a career ladder for the role, and a fair share of the work that builds skills.
+- **Protection from overload,** with a limit on how many programs or projects one person carries.
+
+### What each manager offers the PMO
+
+| | Project manager | Program manager | Portfolio manager |
+|:---|:---|:---|:---|
+| **Early, clear status** | Yellow raised as soon as it is known, with a path to green | The same, across the program's projects | The portfolio's balance and its trade-offs, shared before the review |
+| **Forecasts in ranges** | Dates as ranges, from the team's own history | Benefit dates and the order work has to land in | The capacity view: what fits, and what does not |
+| **Records kept current** | Dependencies, risks and the charter | The program charter, benefits and benefit owners | The inventory of work, scored, with the NPV for each item |
+| **Decisions brought ready** | Blockers, with what has been tried | Cross-project decisions, with options and a recommendation | Stop, start and rebalance proposals, with the trade named |
+| **Learning shared** | What would make the next project easier | Patterns across projects | What the portfolio data says about where work slows down |
+
+### How we know it is working
+
+Measure both sides, every quarter, as trends against each team's own history. These measure the agreement, not individual performance, and none becomes a target for a team. That rule is in the [operating model](operating-model.md#dashboards-and-comparisons).
+
+| The PMO's side | The managers' side |
+|:---|:---|
+| Days to clear a blocker raised to the PMO | Share of red items that were yellow first |
+| Hours a week managers spend on PMO reporting | Forecasts landing within their own range |
+| Escalations carried upward and answered | Charters and NPVs current for the work in flight |
+| Managers' answer to "Does the PMO give you what you need?" | The PMO's answer to "Do we get what we need to help?" |
+| Growth: development plans in place, moves into larger roles | Decisions brought with options rather than only problems |
+
+**Review it together.** Each quarter, the head of the PMO and the managers go through both columns in one meeting. Where a number moves the wrong way, ask what changed in the setup before asking who changed. Adjust the agreement, write the change down, and measure again.
+
+**The overall signal:** managers choose to stay, and teams ask for PMO help on their own initiative, which the [playbook](playbook.md) already measures from month 9.
+
 ## The level test
 
 For each meeting and report the PMO runs, ask which level it serves. A project status meeting that a portfolio executive attends to make funding calls is built for a different level than its audience needs. Split it, or retire it. A common source of friction is a meeting built for project updates, used by an audience that needs portfolio decisions, or the reverse.

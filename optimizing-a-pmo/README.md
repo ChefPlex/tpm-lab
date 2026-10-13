@@ -19,7 +19,8 @@ I found no strong published evidence, either way, on whether program offices imp
 | [A Charter in One Conversation](charter-in-a-conversation.md) | The questions to ask on a recorded call, and the prompt that turns the transcript into a first-draft charter, for new work or a re-baseline |
 | [Net Present Value, Step by Step](npv-method.md) | The method a project or program manager follows to value work in flight: sunk costs out, three cases, the cost of stopping, a worked example and a decision rule |
 | [Stakeholders](stakeholders.md) | Why stakeholders are the reason for this work, what business value means, who they are, what each needs, and how they measure the value they get from the PMO |
-| [Project, Program and Portfolio](three-levels.md) | How the three differ, and what the PMO owes project managers, program managers, portfolio managers, sponsors and operations |
+| [Project, Program and Portfolio](three-levels.md) | How the three differ, what the PMO owes each group, and the two-way agreement between the head of the PMO and its managers, with how to measure it |
+| [Measuring a PMO](metrics.md) | The KPIs in seven groups, how to measure each, which carry targets and which stay as trends, and the sponsor's one-page scorecard |
 | [The 90-Day Playbook](playbook.md) | Three deliverables in 90 days, then months 4 to 12, with criteria for changing course on the improvement work itself |
 | [Operating Model](operating-model.md) | The lever, the money ledger, governance tiers, dashboards and metrics, capacity, dependencies, decisions, mechanisms and people |
 | [What the Evidence Says](evidence.md) | What Amazon, eBay and others actually document, what is folklore, and the research gaps, with sources |

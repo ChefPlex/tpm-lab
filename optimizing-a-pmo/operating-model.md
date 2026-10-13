@@ -36,7 +36,7 @@ Meet internal audit and security in the first week. Regulated change still needs
 
 - **Keep one portfolio view with red, amber and green.** Change what drives the colour: forecast against the team's own history, dependency age, decisions overdue. Run it beside the old dashboard for a quarter before retiring the old one. If the dashboard goes first, the people who still need that information will rebuild it in their own spreadsheets, and the data splits.
 - **Compare groups on forecast reliability, not output.** Does each group hit its own forecasts, and does its stated confidence come true about as often as it says? Ranking teams on output pushes them to optimize the ranking instead of the result.
-- **No targets on team delivery metrics.** Trends, owned by the teams, shown at team level.
+- **No targets on team delivery metrics.** Trends, owned by the teams, shown at team level. The full set of measures, and which carry targets, is in [Measuring a PMO](metrics.md).
 - **Check the data before it goes upward.** Sample the tracker data and publish the error rate before any automated status reaches leadership.
 - **Start with conversations, not integrations.** Build the data pipeline once you know which numbers matter.
 
