@@ -16,7 +16,7 @@ To turn a PMO around, you need two things first: why it was created, and where i
 
 **How.** Through common reporting, common risk management, and a seat at the table where work is started, stopped and funded.
 
-A turnaround starts by recovering that original mandate. Ask what the PMO was supposed to own, then ask where it stopped owning it. The gap between the two is the turnaround.
+A turnaround starts by recovering that original mandate. Ask what the PMO was supposed to own, then ask where it stopped owning it. The gap between the two is the turnaround. The people who judge whether it closed are the PMO's [stakeholders](stakeholders.md).
 
 ## The three constraints
 
@@ -32,7 +32,7 @@ Red, amber and green describe the health of a portfolio, a program or a project.
 |:---|:---|
 | Green all the time | It was given more time, money or people than it needed |
 | Yellow all the time | It was not given enough |
-| Red | It is blocked |
+| Red | It is blocked, and needs a decision or intervention now |
 | Mostly green, sometimes yellow | Healthy. The constraints are being used, not hoarded |
 
 The aim is not a wall of green. A program that is always green is probably not using its constraints well. A program that leans yellow now and then, because someone chose to optimize for time, money or people, is doing its job.
@@ -42,7 +42,7 @@ The closest established method is Critical Chain buffer management. Its "fever c
 **Before you read anything into the colours, check two things.**
 
 - **Are the colours honest?** Constant green can also be misreporting: green on the outside, red on the inside. Sample the data behind the green before you conclude a program is over-resourced. The [operating model](operating-model.md) already says to check the data before it goes upward.
-- **Are the thresholds objective?** If one manager calls red at a 10% slip and another at 25%, the pattern means nothing. Agree what drives each colour first.
+- **Are the thresholds objective?** If one manager calls red at a 10% slip and another at 25%, the pattern means nothing. Agree what drives each colour first. The [Program Status Reporting Framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/program-status-reporting-framework.md) sets the definitions, requires a path to green for every yellow or red, and holds that a program should never go from green to red without a yellow in between.
 
 ## Net present value for everything in flight
 
@@ -53,7 +53,7 @@ PMI's portfolio standard frames this step as a review of the "inventory of work"
 Two limits to state up front:
 
 - **Early numbers are unreliable.** In a study of new-product portfolios, Cooper, Edgett and Kleinschmidt found that "financial data are simply too unreliable during the course of a project, especially in the earlier phases when prioritization decisions are most needed" ([source](https://macsphere.mcmaster.ca/bitstream/11375/5432/1/fulltext.pdf)). Show ranges, not a single figure, and do not let a spreadsheet look more certain than its inputs.
-- **Mandatory work has no revenue case.** Security, regulatory and run-the-business work is done because it must be. Put it in its own category. For the rest, pair NPV with the cost of delay in the [money ledger](operating-model.md#the-money-ledger).
+- **Mandatory work has no revenue case.** Security, regulatory and run-the-business work is done because it must be. Put it in its own category, and make its case with the cost of doing nothing, as in the [Executive Investment Framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/executive-investment-framework.md). For the rest, pair NPV with the cost of delay in the [money ledger](operating-model.md#the-money-ledger).
 
 ## Re-baseline once, with a learning margin
 

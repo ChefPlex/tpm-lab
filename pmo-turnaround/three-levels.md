@@ -52,5 +52,8 @@ For each meeting and report the PMO runs, ask which level it serves. A project s
 ## Related
 
 - [First Principles](first-principles.md)
+- [Stakeholders](stakeholders.md)
 - [Operating Model](operating-model.md)
 - [The 90-Day Playbook](playbook.md)
+- [Program Charter Template](https://github.com/ChefPlex/tpm-templates/blob/main/program-charter-template.md) and [Program Phases Playbook](https://github.com/ChefPlex/tpm-templates/blob/main/program-phases-playbook.md)
+- [Steering Committee Deck Structure](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/steering-committee-deck-structure.md)
