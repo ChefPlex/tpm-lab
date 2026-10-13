@@ -48,7 +48,7 @@ The closest established method is Critical Chain buffer management. Its "fever c
 
 During a turnaround, put a net present value on every current portfolio, program and project. The point is to prove whether each one is worth continuing.
 
-PMI's portfolio standard frames this step as a review of the "inventory of work": work that is not aligned with strategy, or is unlikely to deliver its intended value, is closed. Its tool is a weighted scoring model, with return on investment as a measure, and it never names NPV. So use NPV as one input to a scoring model, beside strategic fit and risk, not as the only test.
+PMI's portfolio standard frames this step as a review of the "inventory of work": work that is not aligned with strategy, or is unlikely to deliver its intended value, is closed. Its tool is a weighted scoring model, with return on investment as a measure, and it never names NPV. So use NPV as one input to a scoring model, beside strategic fit and risk, not as the only test. The [step-by-step method](npv-method.md) shows the people who own the work how to produce it.
 
 Two limits to state up front:
 
