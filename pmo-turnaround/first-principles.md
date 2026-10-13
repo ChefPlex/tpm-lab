@@ -18,6 +18,14 @@ To turn a PMO around, you need two things first: why it was created, and where i
 
 A turnaround starts by recovering that original mandate. Ask what the PMO was supposed to own, then ask where it stopped owning it. The gap between the two is the turnaround. The people who judge whether it closed are the PMO's [stakeholders](stakeholders.md).
 
+## The PMO needs its own charter
+
+A PMO is a piece of work like any other, so it needs a charter like any other. PMI's lexicon gives each level its own: a project charter "formally authorizes the existence of a project," a program charter "links the program to the organization's strategic objectives," and a portfolio charter "authorizes and specifies the portfolio structure." The PMO's charter does the same for the office.
+
+Write it the way you would write any charter, using the [Program Charter Template](https://github.com/ChefPlex/tpm-templates/blob/main/program-charter-template.md), and add what is specific to a PMO: its mission, what it does and does not do, the governance tiers, its one hard lever, the money ledger, the kill criteria for the turnaround, and the date the charter is reviewed. The sponsor signs it. The [playbook](playbook.md) puts the signed charter at day 90.
+
+A disliked PMO often has no charter, or one that describes a mandate nobody remembers giving. Rewriting it is the most direct way to recover where the PMO was supposed to go.
+
 ## The three constraints
 
 Every request to a PMO comes with three constraints: **time, money and people.** A team brings you people and money and asks for something organized within a certain time. The classic project triangle varies by source (scope, quality and performance all appear as the third point), but the request a PMO actually receives is usually framed in these three.
@@ -57,7 +65,7 @@ Two limits to state up front:
 
 ## Re-baseline once, with a learning margin
 
-If nothing is meeting its dates, re-baseline everything. This sits in tension with the NPV section: you are proving value while also giving yourself room. That is deliberate. The re-baseline is the start of a learning period, while the PMO finds out what the work actually takes.
+If nothing is meeting its dates, re-baseline everything. Start by making sure every piece of work has a charter at the right weight for its tier in the [operating model](operating-model.md#governance-tiers): a full charter for tier 1, a short one for tier 2, a plan with a named owner for tier 3. Where one is missing or stale, [one recorded conversation](charter-in-a-conversation.md) produces a draft to work from, and doubles as the check that the work is still worth doing with the people, money and time it has. This sits in tension with the NPV section: you are proving value while also giving yourself room. That is deliberate. The re-baseline is the start of a learning period, while the PMO finds out what the work actually takes.
 
 **Give yourself 10 to 20 percent latitude on time** while you learn. Hold it outside the baseline, as what PMI calls a management reserve: time set aside beyond the schedule baseline and released "for unforeseen work." Inside the baseline it would quietly become the plan. Then hold it to these rules:
 

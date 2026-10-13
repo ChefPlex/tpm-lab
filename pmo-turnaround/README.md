@@ -15,6 +15,7 @@ There is no good evidence that program offices, in any form, improve delivery. P
 | File | What it is |
 |:---|:---|
 | [First Principles](first-principles.md) | Why a PMO exists, the three constraints, reading red, amber and green, NPV for everything in flight, and re-baselining with a learning margin |
+| [A Charter in One Conversation](charter-in-a-conversation.md) | The questions to ask on a recorded call, and the prompt that turns the transcript into a first-draft charter, for new work or a re-baseline |
 | [Net Present Value, Step by Step](npv-method.md) | The method a project or program manager follows to value work in flight: sunk costs out, three cases, the cost of stopping, a worked example and a decision rule |
 | [Stakeholders](stakeholders.md) | Why stakeholders are the reason for the turnaround, what business value means, who they are, what each needs, and how they judge the PMO |
 | [Project, Program and Portfolio](three-levels.md) | How the three differ, and what the PMO owes project managers, program managers, portfolio managers, sponsors and operations |
