@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In progress
 
-To turn a PMO around, you need two things first: why it was created, and where it fell short. You cannot fix the gap until you can name it.
+To improve a PMO, you need two things first: why it was created, and where its setup has drifted from that purpose. You cannot close the gap until you can name it.
 
 ## Why a PMO exists
 
@@ -16,21 +16,21 @@ To turn a PMO around, you need two things first: why it was created, and where i
 
 **How.** Through common reporting, common risk management, and a seat at the table where work is started, stopped and funded.
 
-A turnaround starts by recovering that original mandate. Ask what the PMO was supposed to own, then ask where it stopped owning it. The gap between the two is the turnaround. The people who judge whether it closed are the PMO's [stakeholders](stakeholders.md).
+Improvement starts by recovering that original mandate. Ask what the PMO was set up to own, then ask what it is able to own today. The gap between the two is the work to do. The people who confirm whether it closed are the PMO's [stakeholders](stakeholders.md).
 
 ## The PMO needs its own charter
 
 A PMO is a piece of work like any other, so it needs a charter like any other. PMI's lexicon gives each level its own: a project charter "formally authorizes the existence of a project," a program charter "links the program to the organization's strategic objectives," and a portfolio charter "authorizes and specifies the portfolio structure." The PMO's charter does the same for the office.
 
-Write it the way you would write any charter, using the [Program Charter Template](https://github.com/ChefPlex/tpm-templates/blob/main/program-charter-template.md), and add what is specific to a PMO: its mission, what it does and does not do, the governance tiers, its one hard lever, the money ledger, the kill criteria for the turnaround, and the date the charter is reviewed. The sponsor signs it. The [playbook](playbook.md) puts the signed charter at day 90.
+Write it the way you would write any charter, using the [Program Charter Template](https://github.com/ChefPlex/tpm-templates/blob/main/program-charter-template.md), and add what is specific to a PMO: its mission, what it does and does not do, the governance tiers, its one hard lever, the money ledger, the criteria for changing course on the improvement work, and the date the charter is reviewed. The sponsor signs it. The [playbook](playbook.md) puts the signed charter at day 90. [The PMO Charter](pmo-charter.md) is a fill-in version, section by section.
 
-A disliked PMO often has no charter, or one that describes a mandate nobody remembers giving. Rewriting it is the most direct way to recover where the PMO was supposed to go.
+A PMO that is not getting the support it needs often has no charter, or one written for a mandate that has since changed. Rewriting it is the most direct way to recover where the PMO was meant to go.
 
 ## The three constraints
 
 Every request to a PMO comes with three constraints: **time, money and people.** A team brings you people and money and asks for something organized within a certain time. The classic project triangle varies by source (scope, quality and performance all appear as the third point), but the request a PMO actually receives is usually framed in these three.
 
-When teams are unhappy with a PMO, start with time. If work is not finishing when it was promised, that is probably the reason. There may be others, but it is the best place to begin.
+When the teams a PMO serves want more from it, start with time. If work is not finishing on the agreed dates, that is the likely cause. There may be others, but it is the best place to begin.
 
 ## Reading red, amber and green
 
@@ -41,20 +41,20 @@ Red, amber and green describe the health of a portfolio, a program or a project.
 | Green all the time | It was given more time, money or people than it needed |
 | Yellow all the time | It was not given enough |
 | Red | It is blocked, and needs a decision or intervention now |
-| Mostly green, sometimes yellow | Healthy. The constraints are being used, not hoarded |
+| Mostly green, sometimes yellow | Healthy. The constraints are being fully used |
 
-The aim is not a wall of green. A program that is always green is probably not using its constraints well. A program that leans yellow now and then, because someone chose to optimize for time, money or people, is doing its job.
+The aim is not a wall of green. A program that is always green probably has more time, money or people than it needs, and the portfolio could use that room elsewhere. A program that leans yellow now and then, because someone chose to optimize for time, money or people, is working as intended.
 
 The closest established method is Critical Chain buffer management. Its "fever chart" plots how much of a project's buffer has been used against how much of the work is complete. Using buffer is expected: green needs no action, the middle zone needs a look, and red requires corrective action ([Marris](https://www.critical-chain-projects.com/videos/theory/the-fever-chart-explained-by-philip-marris)).
 
 **Before you read anything into the colours, check two things.**
 
-- **Are the colours honest?** Constant green can also be misreporting: green on the outside, red on the inside. Sample the data behind the green before you conclude a program is over-resourced. The [operating model](operating-model.md) already says to check the data before it goes upward.
+- **Do the colours match the data?** Constant green can also mean the colour and the data have drifted apart: green on the outside, red on the inside. This usually comes from unclear thresholds or pressure to show green, not from the person reporting. Sample the data behind the green before you conclude a program is over-resourced. The [operating model](operating-model.md) already says to check the data before it goes upward.
 - **Are the thresholds objective?** If one manager calls red at a 10% slip and another at 25%, the pattern means nothing. Agree what drives each colour first. The [Program Status Reporting Framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/program-status-reporting-framework.md) sets the definitions, requires a path to green for every yellow or red, and holds that a program should never go from green to red without a yellow in between.
 
 ## Net present value for everything in flight
 
-During a turnaround, put a net present value on every current portfolio, program and project. The point is to prove whether each one is worth continuing.
+While improving the PMO, put a net present value on every current portfolio, program and project. The point is to give each one a fair, comparable case for continuing.
 
 PMI's portfolio standard frames this step as a review of the "inventory of work": work that is not aligned with strategy, or is unlikely to deliver its intended value, is closed. Its tool is a weighted scoring model, with return on investment as a measure, and it never names NPV. So use NPV as one input to a scoring model, beside strategic fit and risk, not as the only test. The [step-by-step method](npv-method.md) shows the people who own the work how to produce it.
 
@@ -65,12 +65,12 @@ Two limits to state up front:
 
 ## Re-baseline once, with a learning margin
 
-If nothing is meeting its dates, re-baseline everything. Start by making sure every piece of work has a charter at the right weight for its tier in the [operating model](operating-model.md#governance-tiers): a full charter for tier 1, a short one for tier 2, a plan with a named owner for tier 3. Where one is missing or stale, [one recorded conversation](charter-in-a-conversation.md) produces a draft to work from, and doubles as the check that the work is still worth doing with the people, money and time it has. This sits in tension with the NPV section: you are proving value while also giving yourself room. That is deliberate. The re-baseline is the start of a learning period, while the PMO finds out what the work actually takes.
+If most work is missing its dates, re-baseline everything. Start by making sure every piece of work has a charter at the right weight for its tier in the [operating model](operating-model.md#governance-tiers): a full charter for tier 1, a short one for tier 2, a plan with a named owner for tier 3. Where one is missing or stale, [one recorded conversation](charter-in-a-conversation.md) produces a draft to work from, and doubles as the check that the work is still worth doing with the people, money and time it has. This sits in tension with the NPV section: you are proving value while also giving yourself room. That is deliberate. The re-baseline is the start of a learning period, while the PMO finds out what the work actually takes.
 
 **Give yourself 10 to 20 percent latitude on time** while you learn. Hold it outside the baseline, as what PMI calls a management reserve: time set aside beyond the schedule baseline and released "for unforeseen work." Inside the baseline it would quietly become the plan. Then hold it to these rules:
 
 - **Do it once, and document it.** The GAO's schedule guide treats re-baselining as rare, limited to new or reduced scope or a formal replan, and warns that it wipes out historical variance ([GAO-16-89G](https://www.gao.gov/assets/gao-16-89g.pdf)). Keep the old baseline, so the history survives.
-- **Put change control on the new one.** A baseline that is revised to match whatever happened tells nobody anything.
+- **Put change control on the new one.** A baseline revised after every change stops being a useful reference.
 - **Measure the latitude itself.** Track how much of the 10 to 20 percent each program uses. IT projects carry a fat tail: in Flyvbjerg and Budzier's study of 1,471 IT projects, one in six was a "Black Swan," with "a cost overrun of 200%, on average, and a schedule overrun of almost 70%" ([source](https://arxiv.org/abs/1304.0265)). A flat margin will cover the typical program and miss those.
 - **End the learning period on a date.** Replace the flat percentage with ranges drawn from each team's own history. GAO sets schedule contingency the same way, from risk analysis at a chosen level of confidence rather than a fixed percentage.
 

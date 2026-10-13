@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In progress
 
-The [first principles](first-principles.md) say to put a net present value on everything in flight. Most project and program managers have never been asked to, so the PMO has to tell them exactly how. This is that method. It is written for the person who owns the work, not for Finance, and it asks one question: **from today, is continuing this work worth more than stopping it?**
+The [first principles](first-principles.md) say to put a net present value on everything in flight. This is rarely part of a project or program manager's role today, so the PMO gives them a clear method to follow. This is that method. It is written for the person who owns the work, not for Finance, and it asks one question: **from today, is continuing this work worth more than stopping it?**
 
 ## What NPV means, in one line
 
@@ -12,7 +12,7 @@ The formula, for the curious: NPV = the sum, over each year *t*, of (benefits �
 
 ## Step 1: Get three numbers from Finance
 
-Do not invent these. Use the same ones for every program, or the comparison is meaningless.
+Take these from Finance, not from an estimate. Use the same ones for every program, so that programs can be compared fairly.
 
 - **The discount rate.** Finance may call it the hurdle rate or the cost of capital. The examples below use 10 percent.
 - **The horizon.** How many years of benefit to count. Three to five years after go-live is common for technology work.
@@ -20,17 +20,17 @@ Do not invent these. Use the same ones for every program, or the comparison is m
 
 ## Step 2: Forget what has already been spent
 
-Money already spent is gone whichever way you decide. It does not go in the calculation. A program that has spent $1.2 million and needs $400,000 more is judged on the $400,000. This is the step people get wrong most often, because walking away from a large spend feels like waste. The question is only whether the next dollar is worth spending.
+Money already spent is gone whichever way you decide. It does not go in the calculation. A program that has spent $1.2 million and needs $400,000 more is judged on the $400,000. This step is the hardest to apply, because walking away from a large spend feels like waste. The question is only whether the next dollar is worth spending.
 
 ## Step 3: List the remaining costs, year by year
 
 - People: the full-time equivalents still needed, at the loaded cost from step 1.
 - Vendors, licences and infrastructure still to be paid.
-- The cost to run it after go-live: support, hosting, maintenance. This is the cost most often left out.
+- The cost to run it after go-live: support, hosting, maintenance. This cost is easy to miss, so check for it.
 
 ## Step 4: List the benefits, year by year, each with an owner
 
-Every benefit line needs a named owner outside the PMO who agrees the number, usually the [benefit owner](stakeholders.md) for the program. A benefit nobody will sign for does not go in.
+Every benefit line needs a named owner outside the PMO who agrees the number, usually the [benefit owner](stakeholders.md) for the program. Include a benefit only when its owner has agreed to the number.
 
 - **Revenue:** new sales, or sales protected.
 - **Costs avoided:** a system retired, a vendor contract ended, headcount not hired.
@@ -74,7 +74,7 @@ A program has already spent $1.2 million (ignored, step 2). It needs $400,000 mo
 | **High:** good adoption | −400 | 250 | 500 | 500 | **+616.2** |
 | **Stop now** | −50 | | | | **−50** |
 
-The base and high cases beat stopping by a wide margin. The low case is worse than stopping. Being a year late and half-adopted turns this program from a good investment into a bad one.
+The base and high cases beat stopping by a wide margin. The low case is worse than stopping. Being a year late with 60 percent adoption turns this program from a good investment into a poor one.
 
 ## Step 8: Decide, and write down the trigger
 
@@ -92,4 +92,4 @@ Security, regulatory and run-the-business work that must be done anyway. Do not 
 
 ## Keep it current
 
-Record every NPV in the portfolio's inventory of work, with its owner, the date, and the assumptions behind each line. Redo it each quarter, and whenever a program re-baselines. An NPV that is a year old is a guess about a program that no longer exists.
+Record every NPV in the portfolio's inventory of work, with its owner, the date, and the assumptions behind each line. Redo it each quarter, and whenever a program re-baselines. An NPV that is a year old describes a program that has since changed.

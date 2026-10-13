@@ -1,25 +1,26 @@
-# PMO Turnaround
+# Optimizing a PMO
 
 **Status:** 🚧 In progress: first draft, researched and reviewed
 
-You walk in the door of a PMO the company does not value or like. That view usually reaches past the office itself, to the program, portfolio and project managers in it. How do you turn it around so the company sees the function as worth having?
+You take over a PMO, and the business wants more value from it. That is rarely about the people in it. The project, program and portfolio managers are usually doing the job the office was set up to do, and doing it well. The cause tends to be the setup: a mandate that drifted, reporting that no longer drives decisions, or a lever the office was never given. How do you reshape the office so the business sees the value its people bring?
 
 What do you do first, second and third? What do you do in the first 30, 60, 90, 180 and 365 days?
 
 ## Start with the honest part
 
-There is no good evidence that program offices, in any form, improve delivery. Published PMO research describes structures, not results, and I found no documented case of an inherited, disliked PMO that a new leader turned around. So this is a set of hypotheses, tested in pilots, with criteria for stopping. It is built that way on purpose: a skeptical engineering leader will trust an honest experiment more than a confident claim.
+I found no strong published evidence, either way, on whether program offices improve delivery. PMO research describes structures, not results. That is a gap in the research, not a verdict on the work. I also found no documented case of a new leader taking over a PMO and reshaping it with measured results. So this is a set of hypotheses, tested in pilots, with criteria for changing course. It is built that way on purpose: leaders on every side will trust an honest experiment more than a confident claim.
 
 ## What Is Here
 
 | File | What it is |
 |:---|:---|
 | [First Principles](first-principles.md) | Why a PMO exists, the three constraints, reading red, amber and green, NPV for everything in flight, and re-baselining with a learning margin |
+| [The PMO Charter](pmo-charter.md) | A fill-in charter for the PMO itself: services, what it will not do, the lever, the money ledger, the RACI and when to change course |
 | [A Charter in One Conversation](charter-in-a-conversation.md) | The questions to ask on a recorded call, and the prompt that turns the transcript into a first-draft charter, for new work or a re-baseline |
 | [Net Present Value, Step by Step](npv-method.md) | The method a project or program manager follows to value work in flight: sunk costs out, three cases, the cost of stopping, a worked example and a decision rule |
-| [Stakeholders](stakeholders.md) | Why stakeholders are the reason for the turnaround, what business value means, who they are, what each needs, and how they judge the PMO |
+| [Stakeholders](stakeholders.md) | Why stakeholders are the reason for this work, what business value means, who they are, what each needs, and how they measure the value they get from the PMO |
 | [Project, Program and Portfolio](three-levels.md) | How the three differ, and what the PMO owes project managers, program managers, portfolio managers, sponsors and operations |
-| [The 90-Day Playbook](playbook.md) | Three deliverables in 90 days, then months 4 to 12, with kill criteria for the turnaround itself |
+| [The 90-Day Playbook](playbook.md) | Three deliverables in 90 days, then months 4 to 12, with criteria for changing course on the improvement work itself |
 | [Operating Model](operating-model.md) | The lever, the money ledger, governance tiers, dashboards and metrics, capacity, dependencies, decisions, mechanisms and people |
 | [What the Evidence Says](evidence.md) | What Amazon, eBay and others actually document, what is folklore, and the research gaps, with sources |
 

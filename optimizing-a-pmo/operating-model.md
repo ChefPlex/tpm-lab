@@ -4,7 +4,7 @@
 
 ## The lever
 
-A PMO with no lever produces reports, and reports are the product it is trying to stop selling. Name one lever in the charter in the first month. For example: no commitment on the riskiest tier is accepted until its dependencies are signed by the teams that will deliver them, and the portfolio review can stop or delay a program on that tier. That is a gate. Call it one, and keep it to that tier. The lesson from companies that removed central review bodies is not to gate everything, not that a gate is never right.
+Without a lever, a PMO can only produce reports, and reports alone do not change outcomes. Name one lever in the charter in the first month. For example: no commitment on the riskiest tier is accepted until its dependencies are signed by the teams that will deliver them, and the portfolio review can stop or delay a program on that tier. That is a gate. Call it one, and keep it to that tier. The lesson from companies that removed central review bodies is not to gate everything, not that a gate is never right.
 
 ## The money ledger
 
@@ -18,7 +18,7 @@ A CFO will ask what this returns. Agree a ledger with Finance and review it ever
 | Spend avoided | Commitments not made, vendors not engaged, duplicate work stopped |
 | Data still flowing | Capitalization and audit evidence confirmed intact |
 
-Targets on the PMO's own measures are fine. Targets on team delivery metrics are not: they invite gaming. Even the PMO's own measures can be gamed, so pair each one with a definition someone outside the PMO checks.
+Targets on the PMO's own measures are fine. Targets on team delivery metrics are not: once a measure becomes a target, people steer the number instead of the result. Even the PMO's own measures can be gamed, so pair each one with a definition someone outside the PMO checks.
 
 ## Governance tiers
 
@@ -34,8 +34,8 @@ Meet internal audit and security in the first week. Regulated change still needs
 
 ## Dashboards and comparisons
 
-- **Keep one portfolio view with red, amber and green.** Change what drives the colour: forecast against the team's own history, dependency age, decisions overdue. Run it beside the old dashboard for a quarter before retiring the old one. Remove the dashboard first and someone builds a shadow spreadsheet.
-- **Compare groups on forecast reliability, not output.** Does each group hit its own forecasts, and does its stated confidence come true about as often as it says? Ranking teams on output is what invites gaming.
+- **Keep one portfolio view with red, amber and green.** Change what drives the colour: forecast against the team's own history, dependency age, decisions overdue. Run it beside the old dashboard for a quarter before retiring the old one. If the dashboard goes first, the people who still need that information will rebuild it in their own spreadsheets, and the data splits.
+- **Compare groups on forecast reliability, not output.** Does each group hit its own forecasts, and does its stated confidence come true about as often as it says? Ranking teams on output pushes them to optimize the ranking instead of the result.
 - **No targets on team delivery metrics.** Trends, owned by the teams, shown at team level.
 - **Check the data before it goes upward.** Sample the tracker data and publish the error rate before any automated status reaches leadership.
 - **Start with conversations, not integrations.** Build the data pipeline once you know which numbers matter.
@@ -44,7 +44,7 @@ Meet internal audit and security in the first week. Regulated change still needs
 
 - **Capacity in layers:** run-the-business, regulatory and security, committed, discretionary, and a protected buffer for unplanned work at the team's own historical rate. Count skills on teams, not interchangeable headcount. Leave slack on purpose: wait times climb sharply as people approach full load.
 - **Every new yes names what it displaces.** That turns capacity from a gate into a visible trade.
-- **Dependencies as short records:** what is needed, from whom, by when, the committed date, confidence, the fallback, the decision date, and the clock for escalation. Measure what the record costs teams and drop fields nobody uses. When the same dependency keeps failing, look for the interface or ownership split behind it.
+- **Dependencies as short records:** what is needed, from whom, by when, the committed date, confidence, the fallback, the decision date, and the clock for escalation. Measure what the record costs teams and drop fields no decision depends on. When the same dependency keeps failing, look for the interface or ownership split behind it.
 - **Decisions with one owner and a date,** a decision log, and a rule that reopening a decision needs new information. Updates lead with the decision: what we see, what it means, the options, the recommendation, who decides and by when.
 
 ## Mechanisms
@@ -58,24 +58,24 @@ Hold every recurring ritual to one test: a tool, that people actually use, that 
 | Quarterly planning | Commit against real capacity | A fast path for small, reversible work, so it does not have to ride on a big initiative |
 | Readiness review | Launch safety on the top two tiers | It is a gate; say so |
 | Correction of errors | Learn from misses | Actions with an owner and a due date, never blame |
-| Mechanism audit | Remove bureaucracy | Quarterly; something gets retired every time |
+| Mechanism audit | Retire mechanisms that no longer pay for themselves | Quarterly; something gets retired every time |
 
 The model has to pass its own test: for each mechanism it adds, it removes a meeting or a report.
 
 ## People and roles
 
-- Define the TPM role by the outcome it keeps true across teams and the decisions it brings, not by the tracking it takes off engineering managers.
+- Define the TPM role by the outcome it keeps true across teams and the decisions it brings, rather than by tracking work on behalf of engineering managers.
 - Competencies: technical fluency, written decision framing, dependency and risk reasoning, influence, financial literacy, coaching and vendor management.
 - Build a career ladder for the role from the start.
 
 ## AI in the PMO
 
-Automate summaries of validated data only, and show the source of every number. A local productivity gain is not a system gain, so measure delivery for the whole system. Remove a bad process before automating it.
+Automate summaries of validated data only, and show the source of every number. A local productivity gain is not a system gain, so measure delivery for the whole system. Fix or retire a process that is not working before automating it.
 
 ## Maturity
 
-1. **Reporting:** collects status. Partners avoid it.
-2. **Coordinating:** runs dependencies and meetings. Tolerated.
+1. **Reporting:** collects status. Partners see it mainly as a reporting step.
+2. **Coordinating:** runs dependencies and meetings. Partners work with it when they need to.
 3. **Predictable:** forecasts hold and capacity is visible. Trusted for dates.
 4. **Decision-making:** brings trade-offs early and owns the portfolio view. Sought out for hard programs.
 5. **Learning:** finds the systemic causes of delay and removes them, including its own mechanisms.

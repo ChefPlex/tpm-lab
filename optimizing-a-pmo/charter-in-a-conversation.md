@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In progress
 
-When a PMO re-baselines everything in flight, every project, program and portfolio needs a charter, and many will not have one, or will have one nobody has read since kickoff. Writing them all from scratch would stall the turnaround. This is the quick and dirty way: one recorded conversation, a set of questions, and an AI assistant that turns the transcript into a first draft. The draft is something to work from, not the finished charter.
+When a PMO re-baselines everything in flight, every project, program and portfolio needs a charter, and some will not have one, or will have one that has not been revisited since kickoff. Writing them all from scratch would stall the improvement work. This is the fast way: one recorded conversation, a set of questions, and an AI assistant that turns the transcript into a first draft. The draft is something to work from, not the finished charter.
 
 It serves both cases in a re-baseline: **starting a piece of work again from the beginning,** or **checking that work already running is still the right work,** with the right people, money and time behind it.
 
@@ -42,7 +42,7 @@ Ask them in this order. They follow the sections of the [Program Charter Templat
 
 **6. Stakeholders and communications**
 - Who decides, who does the work, who must be consulted, who needs to be told?
-- Who outside the team could quietly stop this? Who owns the benefit after it ships?
+- Who outside the team could stop or delay this, and do they know about it? Who owns the benefit after it ships?
 
 **7. Risks, assumptions and dependencies**
 - What worries you most about this?
@@ -58,8 +58,8 @@ Ask them in this order. They follow the sections of the [Program Charter Templat
 **For a re-baseline, add four:**
 - Is this still the right work? Would we start it today, knowing what we know now?
 - What has changed since it started?
-- Does it still have the people, money and time it needs, or did it quietly lose some?
-- What is the new date you would actually commit to, and what latitude do you need while we learn?
+- Does it still have the people, money and time it needs, or has some of it moved elsewhere since it started?
+- What new date can you commit to, and what latitude do you need while we learn?
 
 ### Adjust for the level
 
@@ -113,7 +113,7 @@ TRANSCRIPT:
 
 - **Read the draft against the recording,** not against memory. AI drafts get small things wrong confidently.
 - **Close every [MISSING] item** with the person named, then put the draft into the charter template.
-- **Get the sponsor's sign-off.** A charter nobody signed is a note.
+- **Get the sponsor's sign-off.** The signature is what makes the charter a commitment.
 - **Feed the re-baseline:** the new date and latitude go into the [re-baseline](first-principles.md#re-baseline-once-with-a-learning-margin), the costs and benefits into the [NPV](npv-method.md), and the stakeholders into the [register](stakeholders.md).
 
 ## Related

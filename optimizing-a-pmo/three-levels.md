@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In progress
 
-A PMO that cannot tell these three apart serves all of them badly. It sends a portfolio question to a project manager, or buries a program decision in a project status report. Before a turnaround can fix how the PMO works with each group, it has to be clear which group it is talking to and what that group needs.
+When the setup does not separate these three levels, each group gets less than it needs. A portfolio question can land with a project manager, or a program decision can end up inside a project status report. Before the PMO can improve how it works with each group, it has to be clear which group it is talking to and what that group needs.
 
 ## The difference
 
@@ -16,13 +16,13 @@ A PMO that cannot tell these three apart serves all of them badly. It sends a po
 
 PMI puts the split this way: portfolio management balances competing demands and allocates resources by priority, program management focuses on "achieving the intended benefits," and project management on "achieving specific project deliverables" (*The Standard for Portfolio Management*, 4th edition).
 
-Operations sit beside all three. In PMI's words, operational managers have "the role of realizing the outcomes and benefits." A program that hands over a working system nobody in operations owns has not delivered its benefits yet.
+Operations sit beside all three. In PMI's words, operational managers have "the role of realizing the outcomes and benefits." A program that hands over a working system without a named owner in operations has not delivered its benefits yet.
 
 ## What the PMO owes each group
 
-This part is practice, not standard. It is how I would run the facilitation in a turnaround, drawn from the [operating model](operating-model.md).
+This part is practice, not standard. It is how I would run the facilitation while improving a PMO, drawn from the [operating model](operating-model.md).
 
-**Project managers** need the road cleared, not more reporting.
+**Project managers** need help clearing the road, with reporting kept light.
 - Keep project reporting short and standard, and use it for one thing: spotting what needs help.
 - Own the blockers they cannot clear themselves, with a clock on escalation.
 - Keep dependencies as short records: what, from whom, by when, with a fallback.
@@ -38,16 +38,16 @@ This part is practice, not standard. It is how I would run the facilitation in a
 - Report the portfolio's balance (short against long term, risk against return) and the money ledger.
 
 **Sponsors** need a contract with the PMO.
-- A written charter with the PMO's lever, its money ledger and its kill criteria.
+- A written charter with the PMO's lever, its money ledger and its criteria for changing course.
 - A standing slot to resolve what the PMO cannot.
 
 **Operations managers** need to be in the room before go-live.
 - Name the person who will own each benefit after handover.
 - Give them a say in when work is ready to transition.
 
-## The turnaround test
+## The level test
 
-For each meeting and report the PMO runs, ask which level it serves. A project status meeting that a portfolio executive attends to make funding calls is serving the wrong level. Split it, or stop it. Most disliked PMOs are running project-level rituals for audiences who needed portfolio decisions, or the reverse.
+For each meeting and report the PMO runs, ask which level it serves. A project status meeting that a portfolio executive attends to make funding calls is built for a different level than its audience needs. Split it, or retire it. A common source of friction is a meeting built for project updates, used by an audience that needs portfolio decisions, or the reverse.
 
 ## Related
 
