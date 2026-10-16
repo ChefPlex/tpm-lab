@@ -8,6 +8,7 @@
 |:---|:---|:---|:---|:---|
 | 0 | P0, first | **Scope by network zone** | Every data path in scope is classed by the networks it crosses: (a) **internal**, where we control both ends, so the easiest to move; (b) **the internet**, where we control one end and must stay backward compatible with weaker cryptography, so a fallback and exception policy is needed; (c) **the customer's own network**, which we do not control at all. Other zones are listed too (partners and suppliers, cloud provider backbones, third-party services). The charter states which zones are in scope, and the exposure where one leg of a path moves to post-quantum and another does not is written down per path | Charter draft |
 | 1 | P0 | **Inventory data model and denominator policy** | Schema for services, assets, flows, hops, observations, keys and certificates, owners, exceptions and scope changes; evidence states defined; a scope-change log format | [research-findings.md](research-findings.md) |
+| 1a | P0 | **Discovery: what cryptography actually exists today** | Every discovery source in [first-90-days.md](first-90-days.md) week 3 has been pulled at least once, and a baseline shows, per network zone, the algorithms, key sizes, protocol versions, certificates and libraries actually in use. Each entry is marked observed or self-reported, unknowns are counted rather than dropped, and the output is a cryptographic bill of materials (CycloneDX CBOM) where a tool can emit one | Items 0 and 1 |
 | 2 | P0 | **Weeks 5 to 13 of the 90-day plan in full** | Each week has objective, meetings, tasks, outputs, done-when, decision and blocker trigger, like weeks 1 to 4 | Charter draft |
 | 3 | P0 | **Trust-boundary diagram for one data path** | A Mermaid diagram that renders on GitHub, every hop labelled with protocol, function, owner and evidence state | Item 1 |
 | 4 | P1 | **Five architecture decision records** | Hybrid TLS profile; central mesh versus app-by-app; separate signature track; HSM upgrade versus replace; fallback and exception sunset. Each with options, evidence, decision owner, revisit trigger | [sources.md](sources.md) |
@@ -24,6 +25,7 @@ Later: multiyear roadmap with the two tracks drawn separately, business case wit
 
 | Date | What changed |
 |:---|:---|
+| 2026-10-16 | Added item 1a, discovery of what cryptography exists today. Week 3 already plans the sources; nothing in the backlog ran them or produced the baseline. |
 | 2026-10-16 | Added item 0, scope by network zone: a path is only as protected as its weakest network, and internal, internet and customer networks move at different speeds with different levels of control. |
 | 2026-10-12 | Research pass against primary sources (NIST, IETF, US and international government, suppliers). Added sources, research findings, open questions, charter draft, first-90-days draft and this backlog. |
 
