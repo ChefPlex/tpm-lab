@@ -1,6 +1,6 @@
 # tpm-lab
 
-Working models for programs I am thinking through now, built from what I know from the ones I have run.
+Where I work on new projects and new frameworks for running projects, and on how to get them done. These are working models for programs I am thinking through now, built from what I know from the ones I have run. Treat them as first drafts.
 
 Everything here is in progress. Each folder starts with research, then a charter, then the plan for running it. Expect gaps, open questions and changes as the research lands. When a model is solid enough to use, it stays here; the status line on each folder says how far along it is.
 
