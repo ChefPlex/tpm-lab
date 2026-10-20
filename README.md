@@ -25,4 +25,6 @@ Examples are illustrative. Nothing here describes a specific employer's systems 
 
 ---
 
-*Licensed under [CC BY 4.0](LICENSE).*
+*Maintained by [Eric White](https://www.linkedin.com/in/edwhite). Licensed under [CC BY 4.0](LICENSE).*
+
+**Part of the ChefPlex TPM portfolio** | Status: Active | [I need to… find the right document across all the repositories](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md) | [All repositories](https://github.com/ChefPlex)
