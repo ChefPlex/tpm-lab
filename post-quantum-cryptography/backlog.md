@@ -29,7 +29,7 @@ Later: multiyear roadmap with the two tracks drawn separately, business case wit
 | 2026-10-16 | Added item 0, scope by network zone: a path is only as protected as its weakest network, and internal, internet and customer networks move at different speeds with different levels of control. |
 | 2026-10-12 | Research pass against primary sources (NIST, IETF, US and international government, suppliers). Added sources, research findings, open questions, charter draft, first-90-days draft and this backlog. |
 
-## Before anything here is published
+## Review checklist
 
 - [ ] No real company named as the subject; Meridian Cloud Systems only, labelled fictional
 - [ ] Every number in an example labelled synthetic

@@ -28,13 +28,13 @@ A PMO that is not getting the support it needs often has no charter, or one writ
 
 ## The three constraints
 
-Every request to a PMO comes with three constraints: **time, money and people.** A team brings you people and money and asks for something organized within a certain time. The classic project triangle varies by source (scope, quality and performance all appear as the third point), but the request a PMO actually receives is usually framed in these three.
+Every request to a PMO comes with three constraints, which PMI calls **scope, time and cost.** A team brings you people and money, which is the cost, and asks for something organized, which is the scope, within a certain time. The classic project triangle varies by source (quality and performance sometimes take the place of scope), but the request a PMO actually receives is usually framed in these three.
 
 When the teams a PMO serves want more from it, start with time. If work is not finishing on the agreed dates, that is the likely cause. There may be others, but it is the best place to begin.
 
-## Reading red, amber and green
+## Reading red, yellow and green
 
-Red, amber and green describe the health of a portfolio, a program or a project. This is my own heuristic for reading them over time, not a published standard:
+Red, yellow and green describe the health of a portfolio, a program or a project. This is my own heuristic for reading them over time, not a published standard:
 
 | Pattern | What it probably means |
 |:---|:---|
