@@ -38,7 +38,7 @@ A change can avoid every critical task and still delay the program, because it n
 2. **Time cost:** the days the finish date moves × the daily run rate of the team that stays on the program while it is late. This part is usually larger than the direct cost, and it is the part that gets left out.
 3. **Fixed dates the slip crosses:** a contract or licence that ends, a change freeze, a booked training week, a customer or regulator commitment, a person who leaves on a known date. Crossing one of these is not a cost per day. It is a step: one more day past the date can cost a month's extension.
 
-⭐ **Put the fixed dates in the schedule as milestones.** In the cutover plans I have run, the end-of-contract date for each system being replaced sat in the plan as its own milestone, some weeks after go-live. The gap between go-live and that milestone is a buffer kept on purpose: it pays for running the old and new systems side by side. A change that eats the buffer shows on the schedule, not in an invoice after the fact.
+⭐ **Put the fixed dates in the schedule as milestones.** In a cutover plan, give the end-of-contract date for each system being replaced its own milestone, some weeks after go-live. The gap between go-live and that milestone is a buffer kept on purpose: it pays for running the old and new systems side by side. A change that eats the buffer shows on the schedule, not in an invoice after the fact.
 
 ## Step 6: Offer options, not only yes or no
 
