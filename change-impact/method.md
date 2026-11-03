@@ -1,5 +1,7 @@
 # What One More Change Costs, Step by Step
 
+**Status:** 🚧 In progress
+
 A sponsor or a client asks for "one more small change". The usual answer is a guess: it sounds small, so it probably is. This method replaces the guess with two numbers, worked out before anyone says yes: **how far the change moves the finish date, and what it costs.** It needs a schedule with dependencies, a loaded cost per person, and the program's fixed dates. Most programs have the first two. Few have the third written down, and the third is where most of the money is.
 
 The standard calls this step Perform Integrated Change Control. It sits beside Control Schedule and Control Costs because a change touches both at once. This page is the working version.

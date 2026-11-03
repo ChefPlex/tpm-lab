@@ -11,7 +11,7 @@ Everything here is in progress. Each folder starts with research, then a charter
 | Folder | Question it answers | Status |
 |:---|:---|:---|
 | [Post-Quantum Cryptography](post-quantum-cryptography/) | How do you upgrade cryptography across a very large enterprise for the post-quantum transition? | 🚧 In progress: research checked; charter and 90-day plan in first draft |
-| [Change Impact](change-impact/) | Someone asks for one more change. Before you say yes, how far does it move the finish date, and what does it cost? | Method and worked example |
+| [Change Impact](change-impact/) | Someone asks for one more change. Before you say yes, how far does it move the finish date, and what does it cost? | 🚧 In progress: method and worked example in first draft |
 | [Optimizing a PMO](optimizing-a-pmo/) | You take over a PMO, and the business wants more value from it. The cause is usually the setup, not the people in it. What do you do first, and over the first year? | 🚧 In progress: first principles, stakeholders, the three levels, NPV, charters, playbook, operating model, evidence |
 
 ---
