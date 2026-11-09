@@ -18,6 +18,7 @@ Confidentiality can move now; authentication cannot, yet. Hybrid post-quantum ke
 | [Sources and Standards Status](sources.md) | Every standard, RFC, government rule and supplier capability, with status and date |
 | [Program Charter](charter.md) | First draft: problem, outcomes by cryptographic function, scope, guardrails, decision rights |
 | [The First 90 Days](first-90-days.md) | Weeks 1 to 4 in full, weeks 5 to 13 in outline, and the three gates |
+| [Risk Tiers and Risk Register](risk-register.md) | First draft: how a data path is tiered by exposure, the delivery risks, and what the monthly executive review sees |
 | [Open Questions](open-questions.md) | What the research could not settle, and what would settle it |
 | [Backlog and Work Log](backlog.md) | The next ten pieces of work, with what "done" means |
 
