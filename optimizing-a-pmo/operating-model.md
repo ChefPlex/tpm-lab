@@ -72,6 +72,12 @@ The model has to pass its own test: for each mechanism it adds, it removes a mee
 
 Automate summaries of validated data only, and show the source of every number. A local productivity gain is not a system gain, so measure delivery for the whole system. Fix or retire a process that is not working before automating it.
 
+The PMO is also the natural owner of AI governance in delivery. It already holds the register, the gates and the portfolio view, so AI use fits the setup it runs rather than needing a new committee:
+
+- **An AI use register.** Every activity where AI does part of the work, with four fields: its tier, from human-only to AI-only ([AI Execution Tiers](https://github.com/ChefPlex/ai-automations/blob/main/frameworks/ai-execution-tiers.md)), a named owner, the tool, and the gate, meaning who can stop it.
+- **A review at each tier change.** Moving an activity toward more AI is a decision with an approver, not something that drifts there.
+- **A regular read of the gates.** A gate that has never stopped anything has not been tested. Ask when each one last fired.
+
 ## Maturity
 
 1. **Reporting:** collects status. Partners see it mainly as a reporting step.
