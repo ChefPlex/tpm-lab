@@ -65,7 +65,7 @@ Record every change in the change log, approved or not: the request, the impact 
 
 ## Worked example
 
-Illustrative figures. A system replacement, in working days. Loaded cost: $800 a day per person. Six people stay on the program while it runs, so the run rate is $4,800 a day.
+Illustrative figures. A system replacement, in working days. Loaded cost: $800 a day per person. Six people stay on the program while it runs, so the run rate is $4,800 a day. The change work below is done by people brought in for it, outside the six, so their days are new spend. If someone already on the team does it instead, do not count their days again: the run rate already pays for them, and the cost is the work they put down to do it.
 
 | Task | Days | After |
 |:---|:---|:---|
