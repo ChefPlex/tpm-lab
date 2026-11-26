@@ -44,7 +44,7 @@ Every request runs left to right: door, brain, guardrail check, tool or script, 
 | 5. Outputs | Email drafts, staged and never sent | LIVE |
 | | Briefings: morning, end of day, weekly | LIVE |
 | | Published pages | LIVE |
-| 6. Teams | prog-team, a 19-role, 8-phase multi-agent AI delivery framework | PILOT |
+| 6. Teams | prog-team, a 19-role, 8-phase multi-agent AI delivery framework | |
 | | Its QA team, in repeated use at a health-tech startup | not tracked (used outside this system) |
 
 **Underneath:** deterministic scripts, each with a test, run by a full suite in the background; SQLite stores (35 tables in the main one) for jobs, people, tasks and the improvement backlog; nightly backups (LIVE).
