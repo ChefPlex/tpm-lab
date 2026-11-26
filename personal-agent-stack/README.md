@@ -35,8 +35,6 @@ Every request runs left to right: door, brain, guardrail check, tool or script, 
 | | Browser, for sites with no API | not tracked |
 | 2. Brain | Standing instructions + 9 rules files | 3 RULE (the hand-listed instruction-only rules) |
 | | Skills (55) | 33 PILOT, 22 LIVE |
-| | prog-team, a 19-role, 8-phase multi-agent AI delivery framework | PILOT |
-| | Its QA team, in repeated use at a health-tech startup | not tracked (used outside this system) |
 | | Specialist agents (8) | not tracked |
 | | Memory, with a handoff between sessions | not tracked |
 | 3. Guardrails | Hooks (17), each registered and run on an empty input | 2 PILOT, 15 LIVE |
@@ -46,6 +44,8 @@ Every request runs left to right: door, brain, guardrail check, tool or script, 
 | 5. Outputs | Email drafts, staged and never sent | LIVE |
 | | Briefings: morning, end of day, weekly | LIVE |
 | | Published pages | LIVE |
+| 6. Teams | prog-team, a 19-role, 8-phase multi-agent AI delivery framework | PILOT |
+| | Its QA team, in repeated use at a health-tech startup | not tracked (used outside this system) |
 
 **Underneath:** deterministic scripts, each with a test, run by a full suite in the background; SQLite stores (35 tables in the main one) for jobs, people, tasks and the improvement backlog; nightly backups (LIVE).
 
