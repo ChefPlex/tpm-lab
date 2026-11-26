@@ -35,6 +35,8 @@ Every request runs left to right: door, brain, guardrail check, tool or script, 
 | | Browser, for sites with no API | not tracked |
 | 2. Brain | Standing instructions + 9 rules files | 3 RULE (the hand-listed instruction-only rules) |
 | | Skills (55) | 33 PILOT, 22 LIVE |
+| | prog-team, a 19-role, 8-phase multi-agent AI delivery framework | PILOT |
+| | Its QA team, in repeated use at a health-tech startup | not tracked (used outside this system) |
 | | Specialist agents (8) | not tracked |
 | | Memory, with a handoff between sessions | not tracked |
 | 3. Guardrails | Hooks (17), each registered and run on an empty input | 2 PILOT, 15 LIVE |
@@ -46,6 +48,13 @@ Every request runs left to right: door, brain, guardrail check, tool or script, 
 | | Published pages | LIVE |
 
 **Underneath:** deterministic scripts, each with a test, run by a full suite in the background; SQLite stores (35 tables in the main one) for jobs, people, tasks and the improvement backlog; nightly backups (LIVE).
+
+---
+
+## The Delivery Framework and Its QA Team
+
+- **prog-team** is a 19-role, 8-phase multi-agent AI delivery framework, ideation through operations, with tier-selection logic and full audit trails. The full framework has run on two small static-site builds. It is not production software.
+- **The QA team** is a subset of its roles, in repeated real use at a health-tech startup. They audit requirements-to-code traceability across three systems (the product-management platform, Jira and the codebase), confirming that each ticket matches the delivered work and traces to a merged pull request. Keeping those three aligned is the hard part, and it is the part they check.
 
 ---
 
